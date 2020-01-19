@@ -1,5 +1,5 @@
 {
-  "name": "crediborg-web-client",
+  "name": "@crediborg/web-client",
   "version": "1.0.0",
   "description": "CrediBorg's Web Client.",
   "main": "src/index.js",
